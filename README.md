@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm a second-year college student in Zhejiang University, minoring in ACEE(Advanced honor Class of Engineering Education) of CKC college.
+
+I'm interested in computer science and engineering.
+
+- 🔭 Currently, I'm working on computer vision.
+- 🌱 Dream of persuing a Computer Science PhD degree at one of the top-four universities in the US!
+- Hobbies:
+  - 🎹 Piano! Especially pieces arranged by Amenzz.
+  - 🚲 Cycling!
+  - 🏸 Badminton!
+
+If you find my soul interesting, welcome to contact me!
+
+How to reach me:
+- 📫 Email: 1501454486@qq.com
+
 <!--
 **1501454486/1501454486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
