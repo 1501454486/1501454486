@@ -16,6 +16,13 @@ If you find my soul interesting, welcome to contact me!
 How to reach me:
 - 📫 Email: 1501454486@qq.com
 
+### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,linux,latex,md,vim,docker,git,github" />
+  </a>
+</p>
+
 <!--
 **1501454486/1501454486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
