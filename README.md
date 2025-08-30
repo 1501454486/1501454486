@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1501454486&show_icons=true&theme=default" alt="My GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1501454486&layout=compact&theme=default" alt="Top Langs" width="44%"/>
+</p>
+
 I'm a second-year college student in Zhejiang University, minoring in ACEE(Advanced honor Class of Engineering Education) of CKC college.
 
 I'm interested in computer science and engineering.
